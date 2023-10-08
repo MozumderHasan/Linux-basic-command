@@ -1,0 +1,1 @@
+sudo usermod hasan -g 1004
