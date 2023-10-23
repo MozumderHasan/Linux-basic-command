@@ -1,0 +1,2 @@
+cd etc/
+vim hosts
